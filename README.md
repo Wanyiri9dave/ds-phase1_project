@@ -10,9 +10,9 @@ The aim of this project is to identify low risk aircraft for the company’s exp
 The company is expanding into the aviation industry, aiming to purchase and operate aircraft for both commercial and private enterprises. Entering this industry carries inherent risks due to potential aircraft accidents, maintenance issues, and operational safety concerns.The goal is to identify aircraft that present the lowest operational risk so that the company can make informed decisions on which models to purchase and operate safely. 
 
 ### The Data
-Source: Natioanal Transport Safety Board (NTSB)
-Time Period: 1980-2022
-Records: `80,000 aviation acciddents`
+1.Source: Natioanal Transport Safety Board (NTSB)
+2.Time Period: 1980-2022
+3.Records: `80,000 aviation acciddents`
 
 ## Tools Used
 - Python
@@ -32,4 +32,4 @@ Records: `80,000 aviation acciddents`
 3. Accident rates declined over time indicating improvement in overall aviation ssafety
 
 ## Interactive Dashboard Link
-`https://public.tableau.com/app/profile/david.ndungu/viz/ds_phase-1project/Dashboard2`
+https://public.tableau.com/app/profile/david.ndungu/viz/ds_phase-1project/Dashboard2
